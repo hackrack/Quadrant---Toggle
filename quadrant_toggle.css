@@ -1,0 +1,28 @@
+#topLeft{
+  position: absolute;
+  width: 48%;
+  height: 48%;
+  border: 2px solid black;
+}
+#topRight{
+  position: absolute;
+  left: 50%;
+  width: 48%;
+  height: 48%;
+  border: 2px solid black;
+}
+#bottomLeft{
+  position: absolute;
+  top: 50%;
+  width: 48%;
+  height: 48%;
+  border: 2px solid black;
+}
+#bottomRight{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 48%;
+  width: 48%;
+  border: 2px solid black;
+}
